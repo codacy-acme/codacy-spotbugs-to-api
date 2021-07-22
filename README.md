@@ -1,0 +1,1 @@
+# codacy-spotbugs-to-api
